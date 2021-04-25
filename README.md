@@ -1,1 +1,1 @@
-# github-course
+# Git e Github para iniciantes
